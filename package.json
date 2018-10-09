@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-icalendarrrule",
+  "version": "1.0.0",
+  "description": "This package is to build recurr event to display on a calendar.",
+  "main": "angularjs-icalendarRRule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangdangal/angularjs-icalendarRRule.git"
+  },
+  "keywords": [
+    "icalendar",
+    "rrule"
+  ],
+  "author": "Nguyen Hoang Dang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangdangal/angularjs-icalendarRRule/issues"
+  },
+  "homepage": "https://github.com/hoangdangal/angularjs-icalendarRRule#readme"
+}
